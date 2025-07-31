@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd">
+
+<suite name="AllTestsSuite">
+    <test name="FirstTestExecution">
+        <classes>
+            <class name="tests.FirstTest"/>
+            <class name="tests.FormValidationTest"/>
+        </classes>
+    </test>
+</suite>

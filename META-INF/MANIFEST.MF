@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TestNGProject
+Bundle-SymbolicName: TestNGProject
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: TestNGProject.jar,
+ ahmet/Documents/testng-7.11.0.jar
+Automatic-Module-Name: TestNGProject
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: tests
